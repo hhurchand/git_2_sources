@@ -4,6 +4,7 @@ def grocery_list():
                "Eggs",
                "sausages",
                "pancakes",
+               "jam",
                "buns"]
     return grocery
 
