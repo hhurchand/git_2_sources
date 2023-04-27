@@ -1,7 +1,8 @@
 def grocery_list():
     grocery = ["Milk",
                "Bread",
-               "Eggs"]
+               "Eggs",
+               "sausages"]
     return grocery
 
 
