@@ -15,8 +15,17 @@ def clothing():
     ]
     return clothing_list
 
+def bills():
+    bills_items = ["electricity",
+    "laundry",
+    "travel",
+    "fees"
+    ]
+    return bills_items
+
 
 if __name__ == "__main__":
     print("Display grocery list")
     print(grocery_list())
     print(clothing())
+    print(bills())
