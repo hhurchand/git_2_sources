@@ -3,7 +3,8 @@ def grocery_list():
                "Bread",
                "Eggs",
                "sausages",
-               "pancakes"]
+               "pancakes",
+               "jam"]
     return grocery
 
 
