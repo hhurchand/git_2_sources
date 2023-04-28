@@ -7,6 +7,7 @@ def grocery_list():
                "jam"]
     return grocery
 
+
 if __name__ == "__main__":
     print("Display grocery list")
     print(grocery_list())
