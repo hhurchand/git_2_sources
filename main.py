@@ -5,7 +5,15 @@ def grocery_list():
                "sausages",
                "pancakes",
                "jam",
+<<<<<<< Updated upstream
                "buns"]
+=======
+               "buns",
+               "baked beans",
+               "strawberry",
+               "pineapple",
+               "orange juice"]
+>>>>>>> Stashed changes
     return grocery
 
 
