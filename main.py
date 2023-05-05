@@ -8,7 +8,8 @@ def grocery_list():
                "buns",
                "baked beans",
                "strawberry",
-               "pineapple"]
+               "pineapple",
+               "bananas"]
     return grocery
 
 
