@@ -5,7 +5,8 @@ def grocery_list():
                "sausages",
                "pancakes",
                "jam",
-               "buns"]
+               "buns",
+               "baked beans"]
     return grocery
 
 
